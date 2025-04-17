@@ -2,9 +2,7 @@ package com.research_assistant;
 
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.CrossOrigin;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/research")
@@ -13,7 +11,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class ResearchController {
     private final ResearchService researchService;
 
-    public ResponseEntity<String> processContent(){
-        return "";
+    @PostMapping("/process")
+    public ResponseEntity<String> processContent(@RequestBody ResearchRequest request) {
+        String result = researchService.processContent(request);
+        return ResponseEntity.ok(result);
     }
 }
