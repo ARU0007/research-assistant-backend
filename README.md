@@ -40,10 +40,12 @@ https://github.com/ARU0007/research-assistant-frontend
 ## 📸 Application Preview
 
 Below are screenshots demonstrating the working of the extension:
-<img width="1920" height="1080" alt="Screenshot 2026-01-10 223607" src="https://github.com/user-attachments/assets/31735f30-efc2-4a12-9b7e-ba5d6ffe3943" />
-<img width="960" height="482" alt="Screenshot 2026-01-10 221625" src="https://github.com/user-attachments/assets/a146e7a7-8def-4ee9-a3b5-6c884ae12b07" />
-<img width="958" height="456" alt="Screenshot 2026-01-10 221529" src="https://github.com/user-attachments/assets/c7314583-bdda-4b3b-bcc1-732e2ff2d8c6" />
 <img width="960" height="455" alt="Screenshot 2026-01-10 221443" src="https://github.com/user-attachments/assets/d84ec96d-8e62-47bb-8e4d-85ec1c90b822" />
+<img width="958" height="456" alt="Screenshot 2026-01-10 221529" src="https://github.com/user-attachments/assets/c7314583-bdda-4b3b-bcc1-732e2ff2d8c6" />
+<img width="960" height="482" alt="Screenshot 2026-01-10 221625" src="https://github.com/user-attachments/assets/a146e7a7-8def-4ee9-a3b5-6c884ae12b07" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-10 223607" src="https://github.com/user-attachments/assets/31735f30-efc2-4a12-9b7e-ba5d6ffe3943" />
+
+
 
 
 ---
