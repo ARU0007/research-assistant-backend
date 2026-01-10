@@ -1,4 +1,4 @@
-# AI Research Assistant Extension 🚀
+# AI Research Assistant Extension 🤖
 
 An AI-powered **Chrome Extension** integrated with **Google Gemini LLM** to summarize, analyze, and suggest relevant topics from selected web content. Built with **Spring Boot** backend for secure API communication and intelligent prompt processing.
 
